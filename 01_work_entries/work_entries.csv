@@ -1,0 +1,957 @@
+id,person_id,kind,area,area_detail,time_spent,date_done,date_created
+1,1,Theoretical,House work,Fair Work System,180,2010-01-01,2010-01-01 08:58:14
+2,2,Theoretical,Community work,Visitors,60,2010-01-01,2010-01-01 10:51:32
+3,3,Practical (once),Other,,360,2010-02-09,2010-01-01 12:52:16
+4,4,Practical (repetitive),House work,House work,120,2010-01-01,2010-01-01 20:10:09
+5,5,Practical (repetitive),House technic work,House technic work,60,2010-01-01,2010-01-01 20:51:16
+6,7,Practical (repetitive),House technic work,House technic work,30,2010-01-01,2010-01-02 07:25:14
+7,8,Meeting,Other,,90,2010-02-28,2010-01-03 10:19:27
+8,8,Practical (repetitive),House work,Garden,300,2010-02-30,2010-01-03 10:21:33
+9,9,Theoretical,Administration work,Board of Directors,150,2010-01-02,2010-01-03 12:19:30
+10,9,Theoretical,Administration work,Board of Directors,120,2010-01-01,2010-01-03 12:20:15
+11,10,Theoretical,Administration work,Area Representatives,420,2010-01-01,2010-01-03 15:10:42
+12,10,Theoretical,Administration work,Area Representatives,480,2010-01-03,2010-01-03 15:11:21
+13,5,Practical (repetitive),House technic work,House technic work,60,2010-01-02,2010-01-03 18:08:29
+14,11,Theoretical,Community work,Community work,60,2010-01-03,2010-01-03 19:05:27
+15,11,Theoretical,Community work,Area Representatives,120,2010-01-02,2010-01-03 19:07:03
+16,7,Practical (repetitive),House technic work,House technic work,30,2010-01-03,2010-01-03 19:22:10
+17,7,Meeting,House technic work,Interior planning,60,2010-01-03,2010-01-03 19:24:07
+18,7,Practical (once),House work,Garden,90,2010-01-02,2010-01-03 19:25:46
+19,13,Practical (repetitive),Communication work,Hotel,90,2010-01-03,2010-01-04 05:51:17
+20,13,Practical (repetitive),Communication work,Hotel,30,2010-01-03,2010-01-04 05:52:02
+21,17,Theoretical,House work,Garden,90,2010-01-01,2010-01-04 07:44:42
+22,17,Theoretical,House work,House work,60,2010-01-04,2010-01-04 07:45:33
+23,17,Practical (repetitive),House work,Garden,120,2010-01-02,2010-01-04 07:46:11
+24,17,Practical (repetitive),House work,Garden,30,2010-01-03,2010-01-04 07:47:30
+25,17,Practical (repetitive),House work,Garden,30,2010-01-03,2010-01-04 07:48:07
+26,3,Theoretical,Administration work,Area Representatives,180,2010-01-02,2010-01-04 08:36:52
+27,18,Theoretical,Community work,Community work,30,2010-01-04,2010-01-04 09:11:15
+28,20,Practical (repetitive),House work,Garden,120,2010-01-03,2010-01-04 12:56:45
+29,20,Practical (repetitive),Community work,Cake Day,60,2010-01-03,2010-01-04 12:58:18
+30,21,Practical (once),House work,Garden,30,2010-01-03,2010-01-04 13:40:44
+31,21,Practical (repetitive),House work,Garden,30,2010-01-03,2010-01-04 13:41:51
+32,22,Practical (once),House technic work,Interior planning,120,2010-01-04,2010-01-05 19:57:21
+33,10,Theoretical,Administration work,Area Representatives,240,2010-01-05,2010-01-04 18:31:25
+34,24,Theoretical,Community work,Community action,30,2010-01-04,2010-01-13 11:09:07
+35,24,Practical (once),Community work,Community action,30,2010-01-01,2010-01-13 11:10:25
+36,24,Practical (repetitive),Community work,Visitors,30,2010-01-04,2010-01-13 11:09:50
+37,7,Meeting,House technic work,Outdoor planning,60,2010-01-04,2010-01-04 21:09:20
+38,25,Theoretical,Administration work,Board of Directors,150,2010-01-01,2010-01-04 21:54:28
+39,25,Meeting,Administration work,Board of Directors,300,2010-01-03,2010-01-04 22:00:32
+40,25,Meeting,Administration work,Board of Directors,240,2010-01-04,2010-01-04 22:02:03
+41,25,Practical (once),House work,Cleaning,420,2010-01-03,2010-01-04 22:09:26
+42,8,Meeting,House work,Garden,90,2010-01-04,2010-01-04 23:35:09
+43,8,Theoretical,House work,Garden,60,2010-01-04,2010-01-04 23:36:04
+44,26,Theoretical,House technic work,House technic work,120,2010-01-04,2010-01-05 11:50:43
+45,22,Practical (once),House technic work,Interior planning,60,2010-01-05,2010-01-05 19:58:55
+46,13,Practical (once),Communication work,Hotel,60,2010-01-05,2010-01-05 21:13:01
+47,28,Practical (once),House technic work,House technic work,180,2010-01-02,2010-01-05 21:15:45
+48,28,Practical (repetitive),Community work,Movie Night,60,2010-01-04,2010-01-05 21:16:45
+49,15,Meeting,Administration work,Supervisory Board,150,2010-01-05,2010-01-06 07:12:51
+50,15,Theoretical,Administration work,Supervisory Board,60,2010-01-02,2010-01-06 07:13:36
+51,29,Theoretical,Community work,Community building,60,2010-01-01,2010-01-06 07:26:51
+52,29,Theoretical,Community work,Community building,60,2010-01-02,2010-01-06 07:28:46
+53,29,Theoretical,Community work,Community building,90,2010-01-05,2010-01-06 07:30:18
+54,30,Meeting,Community work,Community building,120,2010-01-05,2010-01-06 07:57:57
+55,30,Practical (repetitive),Other,,90,2010-01-04,2010-01-06 08:00:08
+56,30,Theoretical,Community work,Community building,60,2010-01-03,2010-01-06 08:02:21
+57,25,Meeting,Administration work,Board of Directors,240,2010-01-05,2010-01-06 08:13:31
+58,2,Theoretical,Community work,Visitors,60,2010-01-06,2010-01-06 08:52:09
+59,31,Meeting,Administration work,Supervisory Board,150,2010-01-05,2010-01-06 09:31:28
+60,31,Practical (once),House technic work,House technic work,120,2010-01-06,2010-01-06 09:36:11
+61,31,Practical (once),House technic work,House technic work,120,2010-01-05,2010-01-06 09:35:55
+62,31,Practical (once),House technic work,House technic work,60,2010-01-04,2010-01-06 09:36:50
+63,31,Theoretical,House technic work,House technic work,60,2010-01-05,2010-01-06 09:37:58
+64,31,Theoretical,House technic work,House technic work,60,2010-01-05,2010-01-06 09:38:58
+65,31,Theoretical,House technic work,House technic work,60,2010-01-04,2010-01-06 09:39:44
+66,31,Theoretical,Administration work,Supervisory Board,60,2010-01-04,2010-01-06 09:41:01
+67,31,Theoretical,Administration work,Supervisory Board,30,2010-01-03,2010-01-06 09:44:31
+68,31,Theoretical,House technic work,House technic work,60,2010-01-03,2010-01-06 09:46:45
+69,32,Theoretical,House work,Cooking,120,2010-01-06,2010-01-06 14:52:36
+70,32,Meeting,House work,Cooking,60,2010-01-06,2010-01-06 16:23:19
+71,34,Meeting,House work,Cooking,60,2010-01-06,2010-01-06 19:28:29
+72,7,Meeting,House technic work,House technic work,60,2010-01-06,2010-01-07 11:23:22
+73,7,Meeting,Community work,Community gathering,180,2010-01-07,2010-01-07 11:24:47
+74,7,Practical (once),House technic work,House technic work,30,2010-01-07,2010-01-07 11:25:53
+75,11,Meeting,Administration work,Other,180,2010-01-07,2010-01-07 13:44:44
+76,11,Meeting,Community work,Community building,120,2010-01-06,2010-01-07 13:45:38
+77,11,Theoretical,Community work,Community work,60,2010-01-07,2010-01-07 13:46:15
+78,25,Meeting,House technic work,House technic work,60,2010-01-06,2010-01-07 16:40:28
+79,25,Meeting,Administration work,Board of Directors,240,2010-01-07,2010-01-07 16:45:37
+80,15,Meeting,Community work,Community building,90,2010-01-06,2010-01-08 10:52:22
+81,15,Meeting,Community work,Community gathering,120,2010-01-07,2010-01-08 10:53:08
+82,15,Meeting,House technic work,Outdoor planning,60,2010-01-04,2010-01-08 10:55:37
+83,7,Practical (repetitive),House technic work,House technic work,30,2010-01-08,2010-01-08 11:35:37
+84,7,Practical (repetitive),House technic work,Reactivation,60,2010-01-07,2010-01-08 11:37:50
+85,13,Practical (repetitive),Communication work,Hotel,150,2010-01-08,2010-01-08 12:44:05
+86,9,Meeting,Administration work,Board of Directors,210,2010-01-03,2010-01-08 13:48:59
+87,9,Meeting,Administration work,Board of Directors,210,2010-01-04,2010-01-08 13:49:35
+88,9,Meeting,Administration work,Board of Directors,240,2010-01-05,2010-01-08 13:50:18
+89,9,Theoretical,Administration work,Board of Directors,150,2010-01-06,2010-01-08 13:51:08
+90,9,Meeting,Administration work,Board of Directors,150,2010-01-07,2010-01-08 13:51:51
+91,9,Meeting,Community work,Visitors,90,2010-01-07,2010-01-08 13:52:22
+92,4,Practical (repetitive),House work,Garden,210,2010-01-08,2010-01-21 12:20:58
+93,4,Practical (repetitive),House work,Cleaning,30,2010-01-08,2010-01-08 16:37:56
+94,17,Meeting,Community work,Community gathering,150,2010-01-07,2010-01-09 08:37:54
+95,17,Practical (once),Community work,Other,120,2010-01-08,2010-01-09 08:39:19
+96,17,Theoretical,House work,House work,90,2010-01-08,2010-01-09 08:40:21
+97,31,Theoretical,House technic work,House technic work,120,2010-01-08,2010-01-09 10:07:47
+98,31,Meeting,House technic work,House technic work,60,2010-01-06,2010-01-09 10:08:26
+99,31,Meeting,Administration work,Supervisory Board,150,2010-01-07,2010-01-09 10:10:28
+100,31,Practical (once),Other,,60,2010-01-08,2010-01-09 10:12:15
+101,7,Practical (repetitive),House technic work,House technic work,30,2010-01-11,2010-01-11 20:52:20
+102,20,Practical (once),Community work,Community work,150,2010-01-05,2010-01-09 12:08:12
+103,20,Practical (once),House work,House work,30,2010-01-06,2010-01-09 12:10:00
+104,20,Practical (repetitive),Community work,Visitors,60,2010-01-06,2010-01-09 12:11:14
+105,20,Meeting,Community work,Community work,120,2010-01-07,2010-01-09 12:13:12
+106,20,Practical (once),Community work,Other,240,2010-01-04,2010-01-09 12:15:10
+108,20,Practical (once),Community work,Other,210,2010-01-05,2010-01-09 12:17:46
+109,20,Practical (repetitive),Community work,Visitors,150,2010-01-07,2010-01-09 12:19:22
+110,20,Practical (once),Community work,Other,150,2010-01-04,2010-01-09 12:21:34
+111,21,Practical (once),House work,Garden,60,2010-01-08,2010-01-09 13:09:07
+112,21,Practical (once),House work,Garden,30,2010-01-09,2010-01-09 13:09:51
+113,21,Practical (repetitive),House work,Cleaning,90,2010-01-06,2010-01-09 13:11:44
+115,32,Theoretical,House technic work,Outdoor planning,30,2010-01-09,2010-01-09 18:30:11
+116,32,Theoretical,House work,Cooking,60,2010-01-09,2010-01-09 18:30:51
+117,23,Practical (repetitive),House technic work,House technic work,180,2010-01-07,2010-01-09 18:33:20
+118,32,Meeting,House work,House work,120,2010-01-09,2010-01-09 19:47:01
+119,15,Meeting,Administration work,Supervisory Board,120,2010-01-09,2010-01-09 20:55:00
+120,32,Theoretical,House work,Cooking,30,2010-01-10,2010-01-10 06:37:03
+121,18,Theoretical,Communication work,Hotel,30,2010-01-08,2010-01-10 08:43:52
+122,31,Theoretical,Administration work,Supervisory Board,180,2010-01-09,2010-01-10 11:19:41
+123,2,Practical (repetitive),House work,Garden,60,2010-01-09,2010-01-10 12:15:03
+124,2,Meeting,House work,House work,120,2010-01-09,2010-01-10 12:16:01
+125,2,Meeting,Community work,Visitors,180,2010-01-07,2010-01-10 12:43:59
+127,2,Theoretical,Community work,Visitors,30,2010-01-10,2010-01-10 12:45:33
+128,2,Theoretical,House work,House work,30,2010-01-10,2010-01-10 12:46:33
+129,5,Practical (once),House technic work,House technic work,90,2010-01-04,2010-01-10 13:01:15
+130,5,Practical (repetitive),Community work,Cake Day,120,2010-01-05,2010-01-10 13:04:07
+131,5,Practical (repetitive),Community work,Cake Day,270,2010-01-06,2010-01-10 13:09:48
+132,35,Practical (repetitive),House work,House work,120,2010-01-05,2010-01-10 16:17:44
+133,35,Practical (repetitive),House work,House work,240,2010-01-06,2010-01-10 16:18:52
+134,35,Practical (repetitive),House work,House work,180,2010-01-06,2010-01-10 16:19:41
+135,35,Meeting,Community work,Community gathering,150,2010-01-07,2010-01-10 16:21:34
+136,35,Practical (repetitive),Other,,60,2010-01-08,2010-01-10 16:23:23
+137,35,Meeting,House work,House work,120,2010-01-09,2010-01-10 16:24:46
+138,32,Theoretical,House work,Cooking,60,2010-01-10,2010-01-10 18:06:06
+139,25,Theoretical,Administration work,Board of Directors,210,2010-01-08,2010-01-10 18:30:51
+140,25,Theoretical,Administration work,Board of Directors,120,2010-01-09,2010-01-10 18:34:09
+141,1,Practical (once),House technic work,Network,240,2010-01-02,2010-01-10 19:11:13
+142,1,Practical (once),House technic work,House technic work,600,2010-01-03,2010-01-10 19:14:25
+143,23,Practical (once),House technic work,Interior planning,60,2010-01-10,2010-01-10 19:16:51
+144,1,Practical (once),House technic work,Network,120,2010-01-11,2010-01-10 19:18:08
+145,1,Theoretical,House technic work,House technic work,60,2010-01-05,2010-01-10 19:24:10
+146,1,Theoretical,House technic work,House technic work,180,2010-01-06,2010-01-10 19:23:59
+147,1,Meeting,Community work,Community gathering,150,2010-01-06,2010-01-10 19:23:38
+148,25,Meeting,Administration work,Board of Directors,210,2010-01-10,2010-01-10 20:46:21
+149,24,Practical (repetitive),Community work,Visitors,180,2010-01-07,2010-01-13 11:08:02
+150,24,Theoretical,Community work,Visitors,30,2010-01-06,2010-01-13 11:08:18
+151,24,Practical (repetitive),Community work,Cake Day,90,2010-01-06,2010-01-13 11:08:38
+152,24,Practical (repetitive),Administration work,Other,90,2010-01-02,2010-01-13 11:10:08
+153,24,Theoretical,Community work,Trustmangement,120,2010-01-11,2010-01-13 11:07:29
+154,34,Meeting,House work,House work,90,2010-01-09,2010-01-11 08:31:41
+155,34,Theoretical,House work,Errands,30,2010-01-10,2010-01-11 08:32:37
+156,34,Practical (repetitive),Other,,30,2010-01-12,2010-01-11 08:34:16
+157,13,Practical (repetitive),Communication work,Hotel,60,2010-01-09,2010-01-11 14:17:58
+158,13,Practical (repetitive),Communication work,Hotel,60,2010-01-10,2010-01-11 14:18:44
+159,13,Practical (repetitive),Communication work,Hotel,90,2010-01-11,2010-01-11 14:20:27
+160,13,Theoretical,Communication work,Hotel,30,2010-01-11,2010-01-11 14:21:14
+161,24,Meeting,Community work,Visitors,90,2010-01-11,2010-01-13 11:07:44
+162,37,Practical (repetitive),House work,House work,30,2010-01-06,2010-01-11 17:46:10
+163,37,Meeting,Community work,Community gathering,150,2010-01-07,2010-01-11 17:47:38
+164,37,Practical (repetitive),House work,Cleaning,60,2010-01-08,2010-01-11 17:49:05
+165,25,Theoretical,House technic work,House technic work,90,2010-01-11,2010-01-11 18:55:49
+166,25,Theoretical,Administration work,Board of Directors,90,2010-01-11,2010-01-11 18:56:45
+167,7,Practical (repetitive),House technic work,House technic work,30,2010-01-10,2010-01-11 20:52:45
+168,7,Practical (repetitive),House technic work,House technic work,30,2010-01-09,2010-01-11 20:53:15
+169,38,Meeting,Community work,Trustmangement,150,2010-01-11,2010-01-11 20:56:20
+170,38,Meeting,Community work,Community gathering,150,2010-01-07,2010-01-11 20:57:36
+171,38,Meeting,Community work,Community building,30,2010-01-06,2010-01-11 20:59:11
+172,29,Meeting,Community work,Community building,90,2010-01-06,2010-01-11 21:03:10
+173,29,Theoretical,Community work,Community building,90,2010-01-08,2010-01-11 21:04:22
+174,29,Meeting,Community work,Community gathering,150,2010-01-14,2010-01-11 21:05:10
+175,29,Meeting,House work,House work,120,2010-01-09,2010-01-11 21:06:22
+176,29,Theoretical,House work,Garden,60,2010-01-09,2010-01-11 21:08:49
+177,31,Meeting,Administration work,Supervisory Board,90,2010-01-11,2010-01-12 12:06:24
+178,31,Theoretical,House technic work,House technic work,60,2010-01-11,2010-01-12 12:08:09
+179,31,Theoretical,House technic work,House technic work,120,2010-01-12,2010-01-12 17:49:45
+180,40,Practical (repetitive),House work,Cleaning,30,2010-01-09,2010-01-12 13:18:17
+181,40,Theoretical,Community work,Community building,60,2010-01-04,2010-01-12 13:22:37
+182,40,Theoretical,Community work,Community building,60,2010-01-05,2010-01-12 13:23:56
+183,40,Meeting,Community work,Community gathering,180,2010-01-07,2010-01-12 14:51:38
+184,40,Practical (repetitive),House work,House work,30,2010-01-09,2010-01-12 14:53:44
+185,31,Practical (repetitive),House technic work,House technic work,30,2010-01-11,2010-01-12 17:52:05
+186,7,Practical (repetitive),House technic work,House technic work,30,2010-01-12,2010-01-12 19:05:52
+187,7,Practical (once),House technic work,Reactivation,30,2010-01-12,2010-01-12 19:06:30
+188,7,Practical (once),House technic work,Reactivation,30,2010-01-12,2010-01-12 19:09:58
+189,41,Meeting,Community work,Cohabitation,90,2010-01-12,2010-01-12 20:28:03
+190,8,Theoretical,House technic work,House technic work,180,2010-01-09,2010-01-12 21:09:31
+191,40,Practical (repetitive),House work,Cleaning,60,2010-01-13,2010-01-13 10:16:09
+192,7,Practical (repetitive),House technic work,House technic work,30,2010-01-13,2010-01-13 11:35:08
+193,13,Practical (repetitive),Communication work,Hotel,240,2010-01-13,2010-01-13 16:22:33
+194,13,Practical (repetitive),Communication work,Hotel,30,2010-01-13,2010-01-13 16:23:40
+195,25,Practical (once),House technic work,House technic work,270,2010-01-12,2010-01-13 20:50:23
+196,25,Theoretical,Administration work,Board of Directors,150,2010-01-13,2010-01-13 20:52:24
+197,11,Meeting,Community work,Cohabitation,120,2010-01-12,2010-01-13 21:43:10
+198,42,Meeting,Community work,Trustmangement,120,2010-01-11,2010-01-14 07:01:22
+199,42,Meeting,Community work,Cohabitation,90,2010-01-19,2010-01-14 07:02:01
+200,42,Theoretical,Community work,Other,120,2010-01-10,2010-01-14 07:14:12
+201,42,Theoretical,Communication work,Public relations,90,2010-01-10,2010-01-14 07:13:46
+202,42,Theoretical,Communication work,Public relations,60,2010-01-12,2010-01-14 07:08:01
+203,42,Theoretical,Communication work,Public relations,180,2010-01-04,2010-01-14 07:12:41
+204,32,Practical (once),Community work,Other,60,2010-01-14,2010-01-18 13:33:27
+205,32,Practical (once),Community work,Other,180,2010-01-13,2010-01-18 13:33:46
+206,32,Theoretical,House work,Cooking,60,2010-01-13,2010-01-14 09:26:00
+207,14,Theoretical,House technic work,Interior planning,60,2010-02-26,2010-01-14 10:20:30
+208,14,Theoretical,House technic work,Interior planning,60,2010-02-27,2010-01-14 10:26:05
+209,14,Meeting,House technic work,Interior planning,150,2010-02-28,2010-01-14 10:25:48
+210,14,Theoretical,House technic work,Interior planning,60,2010-01-05,2010-01-14 10:22:53
+211,14,Theoretical,House technic work,Interior planning,180,2010-01-09,2010-01-14 10:25:16
+212,14,Practical (repetitive),House work,House work,180,2010-01-14,2010-01-14 10:28:08
+213,32,Theoretical,House work,Cooking,60,2010-01-14,2010-01-14 10:47:25
+214,30,Practical (once),House work,Cooking,180,2010-01-14,2010-01-14 15:03:47
+215,30,Practical (repetitive),House work,Garden,180,2010-01-13,2010-01-14 15:06:37
+216,30,Meeting,Community work,Community gathering,150,2010-01-07,2010-01-14 15:08:54
+217,30,Theoretical,Community work,Other,120,2010-01-14,2010-01-14 15:12:02
+218,23,Practical (repetitive),House work,Garden,90,2010-01-13,2010-01-14 15:26:19
+219,23,Practical (once),House work,House work,270,2010-01-14,2010-01-14 15:29:10
+220,13,Practical (repetitive),House work,Cooking,180,2010-01-14,2010-01-14 16:13:16
+221,13,Practical (once),Communication work,Hotel,30,2010-01-14,2010-01-14 16:14:38
+222,42,Theoretical,Communication work,Public relations,120,2010-01-03,2010-01-14 20:04:02
+223,31,Meeting,Administration work,Supervisory Board,90,2010-01-14,2010-01-15 07:00:39
+224,31,Practical (once),House technic work,House technic work,30,2010-01-14,2010-01-15 07:01:40
+225,31,Theoretical,House technic work,House technic work,30,2010-01-14,2010-01-15 07:04:11
+226,31,Practical (once),House work,Garden,60,2010-01-14,2010-01-15 07:05:18
+227,21,Practical (once),House work,Garden,60,2010-01-10,2010-01-15 09:39:10
+228,21,Practical (once),House work,Garden,90,2010-01-12,2010-01-15 09:40:21
+229,21,Practical (once),House technic work,Reactivation,120,2010-01-12,2010-01-15 09:46:33
+230,21,Practical (repetitive),Community work,Community action,150,2010-01-14,2010-01-15 09:47:42
+231,21,Practical (once),House work,Garden,90,2010-01-14,2010-01-15 09:48:41
+232,17,Theoretical,House work,House work,90,2010-01-14,2010-01-15 11:04:42
+233,17,Theoretical,House work,Cooking,60,2010-01-14,2010-01-15 11:05:18
+234,17,Practical (repetitive),House work,Garden,150,2010-01-15,2010-01-15 15:52:52
+235,17,Practical (repetitive),House work,Garden,30,2010-01-15,2010-01-15 15:53:33
+236,20,Meeting,House work,House work,120,2010-01-09,2010-01-15 17:49:01
+237,20,Practical (once),Community work,Cake Day,90,2010-01-10,2010-01-15 17:51:02
+238,20,Practical (repetitive),House work,Cleaning,30,2010-01-10,2010-01-15 17:52:15
+239,20,Theoretical,Community work,Visitors,90,2010-01-11,2010-01-15 17:56:27
+240,20,Theoretical,House work,House work,30,2010-01-10,2010-01-15 17:57:55
+241,20,Theoretical,Community work,Visitors,30,2010-01-10,2010-01-15 17:58:56
+242,20,Practical (repetitive),House work,Cooking,270,2010-01-14,2010-01-15 18:02:51
+243,20,Practical (once),Community work,Other,420,2010-01-14,2010-01-15 18:04:35
+244,20,Practical (once),Community work,Other,720,2010-01-15,2010-01-15 18:06:43
+245,8,Theoretical,House work,Garden,120,2010-01-19,2010-01-15 18:30:00
+246,8,Practical (repetitive),House work,Garden,360,2010-01-14,2010-01-15 18:31:22
+247,44,Practical (once),Other,,180,2010-01-14,2010-01-15 19:48:33
+248,44,Theoretical,Communication work,Events,30,2010-01-14,2010-01-15 19:49:14
+249,44,Meeting,Community work,Community gathering,180,2010-01-07,2010-01-15 19:50:44
+250,44,Practical (once),Community work,Music,90,2010-01-15,2010-01-15 19:52:03
+251,1,Practical (once),House technic work,House technic work,270,2010-01-12,2010-01-15 20:58:08
+252,1,Practical (once),House technic work,House technic work,240,2010-01-13,2010-01-15 20:58:59
+253,1,Practical (once),House technic work,House technic work,480,2010-01-14,2010-01-15 20:59:44
+254,1,Practical (repetitive),House technic work,Network,300,2010-01-15,2010-01-15 21:02:18
+255,45,Meeting,Administration work,Supervisory Board,90,2010-01-14,2010-01-15 22:32:56
+256,45,Meeting,Administration work,Supervisory Board,90,2010-01-11,2010-01-15 22:34:28
+257,45,Theoretical,Administration work,Supervisory Board,30,2010-01-06,2010-01-15 22:39:23
+258,45,Theoretical,Administration work,Supervisory Board,30,2010-01-14,2010-01-15 22:41:32
+259,45,Meeting,Administration work,Supervisory Board,150,2010-01-05,2010-01-15 22:44:33
+260,46,Meeting,Community work,Community work,60,2010-01-06,2010-01-15 22:51:50
+261,45,Meeting,Other,,120,2010-01-07,2010-01-15 22:51:54
+262,46,Practical (once),House work,Cooking,60,2010-01-14,2010-01-15 22:52:57
+263,45,Theoretical,Administration work,Supervisory Board,30,2010-01-01,2010-01-15 22:55:03
+264,45,Theoretical,Administration work,Supervisory Board,30,2010-01-14,2010-01-15 22:56:44
+265,43,Practical (repetitive),House work,Garden,300,2010-01-15,2010-01-16 05:57:49
+266,43,Meeting,Community work,Cake Day,60,2010-01-09,2010-01-16 05:58:49
+267,43,Practical (repetitive),House work,Garden,210,2010-01-14,2010-01-16 06:00:04
+268,43,Practical (repetitive),House work,Cooking,60,2010-01-14,2010-01-16 06:01:37
+269,37,Practical (once),House work,Garden,60,2010-01-14,2010-01-16 19:02:50
+270,37,Practical (repetitive),House work,Garden,60,2010-01-14,2010-01-16 19:05:14
+271,37,Meeting,Communication work,Events,120,2010-01-16,2010-01-16 19:06:20
+272,6,Meeting,House work,House work,120,2010-01-09,2010-01-16 20:06:32
+273,6,Theoretical,Community work,Trustmangement,90,2010-01-11,2010-01-16 20:08:07
+274,6,Meeting,Community work,Cohabitation,60,2010-01-12,2010-01-16 20:10:23
+275,9,Theoretical,Administration work,Board of Directors,60,2010-01-08,2010-01-16 20:32:07
+276,9,Meeting,House work,House work,120,2010-01-09,2010-01-16 20:32:36
+277,9,Meeting,Administration work,Board of Directors,90,2010-01-09,2010-01-16 20:33:04
+278,9,Meeting,Administration work,Board of Directors,210,2010-01-10,2010-01-16 20:33:36
+279,9,Theoretical,Administration work,Board of Directors,60,2010-01-17,2010-01-16 20:34:09
+280,9,Theoretical,Administration work,Board of Directors,120,2010-01-13,2010-01-16 20:34:59
+281,9,Theoretical,Administration work,Board of Directors,90,2010-01-14,2010-01-16 20:35:20
+282,9,Theoretical,Administration work,Board of Directors,120,2010-01-16,2010-01-16 20:35:57
+283,15,Practical (repetitive),House work,Garden,90,2010-01-14,2010-01-16 22:35:53
+284,15,Practical (repetitive),Other,,180,2010-01-14,2010-01-16 22:38:02
+285,15,Meeting,Administration work,Supervisory Board,90,2010-01-14,2010-01-16 22:39:18
+286,15,Theoretical,Administration work,Supervisory Board,60,2010-01-16,2010-01-16 22:40:14
+287,25,Theoretical,Administration work,Board of Directors,90,2010-01-14,2010-01-17 06:50:32
+288,25,Theoretical,House technic work,House technic work,60,2010-01-14,2010-01-17 06:52:53
+289,25,Practical (once),House technic work,House technic work,90,2010-01-14,2010-01-17 06:55:18
+290,25,Theoretical,Administration work,Board of Directors,150,2010-01-15,2010-01-17 06:56:40
+291,21,Practical (once),House technic work,House technic work,60,2010-01-16,2010-01-17 13:55:31
+292,21,Practical (repetitive),House work,Garden,60,2010-01-17,2010-01-17 13:57:27
+293,21,Practical (repetitive),House work,Garden,60,2010-01-17,2010-01-17 13:58:16
+294,2,Practical (repetitive),House work,Garden,120,2010-01-13,2010-01-17 15:10:47
+295,7,Practical (repetitive),House technic work,House technic work,30,2010-01-17,2010-01-17 19:47:31
+296,7,Meeting,Administration work,General meeting ,120,2010-01-17,2010-01-17 19:49:05
+297,10,Theoretical,Administration work,General meeting ,120,2010-01-17,2010-01-17 20:59:33
+298,43,Practical (repetitive),House work,Garden,90,2010-01-16,2010-01-23 14:36:57
+299,47,Practical (repetitive),House work,Garden,120,2010-01-08,2010-01-18 05:33:40
+300,47,Theoretical,House work,Garden,120,2010-01-11,2010-01-18 05:34:28
+301,47,Meeting,House work,House work,120,2010-01-09,2010-01-18 05:35:21
+302,47,Practical (repetitive),House work,Garden,30,2010-01-09,2010-01-18 05:37:38
+303,47,Practical (once),House technic work,Interior planning,180,2010-01-12,2010-01-18 05:38:43
+304,47,Practical (once),House technic work,Interior planning,240,2010-01-14,2010-01-18 05:39:26
+305,47,Practical (repetitive),House work,Garden,120,2010-01-15,2010-01-18 05:39:56
+306,47,Practical (once),House technic work,Interior planning,150,2010-01-15,2010-01-18 05:41:02
+307,47,Practical (once),House technic work,Interior planning,300,2010-01-16,2010-01-18 05:42:23
+308,25,Meeting,Administration work,Board of Directors,150,2010-01-17,2010-01-18 06:55:11
+309,25,Theoretical,Administration work,Board of Directors,120,2010-01-17,2010-01-18 06:57:06
+310,21,Practical (once),House technic work,Reactivation,120,2010-01-18,2010-01-18 13:09:09
+311,32,Theoretical,House work,Cooking,60,2010-01-18,2010-01-18 13:34:58
+312,11,Theoretical,Community work,Community gathering,60,2010-01-14,2010-01-25 20:52:00
+314,14,Practical (repetitive),House work,Garden,150,2010-01-18,2010-01-19 19:56:57
+315,14,Theoretical,House technic work,Interior planning,120,2010-01-18,2010-01-19 20:00:58
+316,14,Meeting,Community work,Area Representatives,90,2010-01-19,2010-01-19 20:03:42
+317,42,Meeting,Community work,Community action,90,2010-01-19,2010-01-19 20:17:27
+318,25,Meeting,Administration work,Board of Directors,240,2010-01-19,2010-01-19 20:22:52
+319,25,Practical (once),House technic work,House technic work,210,2010-01-18,2010-01-19 20:42:55
+320,13,Practical (once),Communication work,Hotel,90,2010-01-20,2010-01-20 14:49:36
+321,13,Practical (once),Communication work,Hotel,180,2010-01-20,2010-01-20 14:50:25
+322,13,Practical (repetitive),Communication work,Hotel,30,2010-01-17,2010-01-20 14:52:39
+323,13,Meeting,Community work,Area Representatives,90,2010-01-19,2010-01-20 14:54:20
+324,13,Meeting,Administration work,General meeting ,90,2010-01-17,2010-01-20 14:59:50
+325,25,Theoretical,Administration work,Board of Directors,120,2010-01-20,2010-01-20 16:36:49
+326,31,Meeting,Administration work,General meeting ,90,2010-01-17,2010-01-20 17:58:31
+327,31,Theoretical,House technic work,House technic work,60,2010-01-20,2010-01-20 17:59:23
+328,31,Practical (once),House work,Garden,60,2010-01-20,2010-01-20 18:03:39
+329,31,Practical (once),House work,Garden,60,2010-01-15,2010-01-20 18:03:14
+330,31,Theoretical,Administration work,Supervisory Board,30,2010-01-20,2010-01-20 18:05:16
+331,31,Practical (once),House technic work,House technic work,30,2010-01-19,2010-01-20 18:07:05
+332,24,Meeting,Community work,Community action,120,2010-01-19,2010-01-20 18:46:11
+333,24,Meeting,Community work,Cohabitation,90,2010-01-12,2010-01-20 18:49:49
+334,24,Practical (once),Community work,Cake Day,90,2010-01-14,2010-01-20 18:53:33
+335,24,Theoretical,Community work,Visitors,30,2010-01-20,2010-01-20 18:55:08
+336,20,Meeting,Community work,Community action,90,2010-01-19,2010-01-20 20:11:23
+337,20,Theoretical,Community work,Visitors,30,2010-01-20,2010-01-20 20:12:37
+338,20,Practical (once),House work,Cleaning,180,2010-01-16,2010-01-20 20:15:08
+339,20,Practical (repetitive),House work,Garden,180,2010-01-17,2010-01-20 20:17:15
+340,20,Theoretical,Community work,Visitors,30,2010-01-17,2010-01-20 20:18:56
+341,20,Practical (once),Community work,Other,120,2010-01-18,2010-01-20 20:20:25
+342,20,Theoretical,Community work,Other,60,2010-01-20,2010-01-20 20:22:19
+343,45,Theoretical,Administration work,Supervisory Board,30,2010-01-17,2010-01-20 22:32:18
+344,45,Meeting,Administration work,General meeting ,90,2010-01-17,2010-01-20 22:33:30
+345,11,Meeting,Community work,Area Representatives,180,2010-01-19,2010-01-21 10:35:45
+346,11,Theoretical,Community work,Community gathering,60,2010-01-20,2010-01-21 10:36:29
+347,4,Meeting,Communication work,Events,120,2010-01-16,2010-01-21 12:22:47
+348,4,Meeting,House work,Garden,120,2010-01-19,2010-01-21 12:24:03
+349,4,Practical (repetitive),House work,Cooking,180,2010-01-21,2010-01-21 12:24:59
+350,4,Meeting,Community work,Community gathering,120,2010-01-21,2010-01-21 12:26:04
+351,40,Practical (repetitive),House work,Cleaning,60,2010-01-20,2010-01-21 14:20:05
+352,40,Theoretical,Community work,Community building,300,2010-01-19,2010-01-21 14:23:27
+353,40,Meeting,House work,Garden,60,2010-01-20,2010-01-21 14:25:58
+354,40,Meeting,House work,Garden,120,2010-01-19,2010-01-21 14:27:16
+355,9,Meeting,Administration work,Board of Directors,210,2010-01-19,2010-01-21 14:45:38
+356,9,Theoretical,Administration work,Board of Directors,60,2010-01-20,2010-01-21 14:46:19
+357,9,Meeting,Community work,Community gathering,180,2010-01-21,2010-01-21 14:47:15
+358,11,Meeting,Community work,Community gathering,180,2010-01-21,2010-01-21 15:51:49
+359,7,Practical (repetitive),House technic work,House technic work,30,2010-01-21,2010-01-21 17:08:25
+360,7,Practical (repetitive),House technic work,House technic work,30,2010-01-20,2010-01-21 17:08:39
+361,7,Practical (repetitive),House work,Garden,120,2010-01-21,2010-01-21 17:10:59
+362,47,Practical (once),House technic work,Interior planning,180,2010-01-18,2010-01-21 17:18:03
+363,47,Meeting,House work,House work,120,2010-01-19,2010-01-21 17:19:20
+364,47,Practical (once),House technic work,Interior planning,120,2010-01-20,2010-01-21 17:20:14
+365,47,Practical (once),House technic work,Network,150,2010-01-21,2010-01-21 17:20:53
+366,13,Meeting,Community work,Community gathering,120,2010-01-21,2010-01-22 07:23:40
+367,7,Practical (repetitive),House work,Garden,60,2010-01-22,2010-01-22 08:55:23
+368,5,Practical (repetitive),Community work,Cake Day,120,2010-01-12,2010-01-22 13:50:18
+369,5,Practical (repetitive),Community work,Cake Day,210,2010-01-13,2010-01-22 13:52:17
+370,5,Practical (repetitive),Community work,Cake Day,60,2010-01-19,2010-01-22 13:55:14
+371,5,Practical (repetitive),Other,,60,2010-01-18,2010-01-22 14:00:08
+372,5,Practical (repetitive),Community work,Cake Day,360,2010-01-20,2010-01-22 14:02:54
+373,34,Practical (once),Other,,210,2010-01-22,2010-01-22 14:43:14
+374,34,Practical (repetitive),House work,Cooking,300,2010-01-14,2010-01-22 14:44:03
+375,34,Meeting,Community work,Community gathering,180,2010-01-20,2010-01-22 14:45:25
+376,35,Meeting,House work,House work,120,2010-01-17,2010-01-22 16:43:08
+377,35,Meeting,House work,Fair Work System,120,2010-01-14,2010-01-22 16:44:26
+378,35,Practical (repetitive),House work,House work,150,2010-01-12,2010-01-22 16:45:41
+379,35,Practical (repetitive),House work,House work,180,2010-01-13,2010-01-22 16:46:21
+380,35,Meeting,House work,House work,150,2010-01-21,2010-01-22 16:47:09
+381,35,Practical (repetitive),House work,Cooking,120,2010-01-21,2010-01-22 16:47:55
+382,41,Meeting,Community work,Cohabitation,120,2010-01-12,2010-01-22 18:55:27
+383,41,Theoretical,Community work,Cohabitation,30,2010-01-12,2010-01-22 18:56:14
+384,41,Practical (repetitive),House work,Garden,60,2010-01-09,2010-01-22 18:58:06
+385,41,Practical (repetitive),House work,Garden,120,2010-01-14,2010-01-22 19:00:33
+386,41,Practical (repetitive),House work,Cooking,60,2010-01-14,2010-01-22 19:01:28
+387,41,Meeting,Administration work,General meeting ,120,2010-01-17,2010-01-22 19:04:47
+388,41,Meeting,Community work,Community gathering,180,2010-01-21,2010-01-22 19:06:22
+389,32,Practical (repetitive),Community work,Movie Night,60,2010-01-18,2010-01-22 19:32:45
+390,43,Practical (once),House technic work,Reactivation,30,2010-01-22,2010-01-23 05:53:39
+391,43,Practical (once),House technic work,Reactivation,30,2010-01-21,2010-01-23 05:54:40
+392,43,Practical (repetitive),Community work,Cake Day,240,2010-01-20,2010-01-23 05:55:39
+393,17,Theoretical,House work,House work,180,2010-01-19,2010-01-23 06:55:04
+394,17,Meeting,House work,Garden,60,2010-01-20,2010-01-23 06:55:34
+395,17,Practical (once),House technic work,Reactivation,60,2010-01-20,2010-01-23 06:56:20
+396,17,Practical (once),House work,Garden,180,2010-01-23,2010-01-25 08:00:11
+397,25,Meeting,Community work,Community gathering,180,2010-01-21,2010-01-23 07:27:52
+398,25,Theoretical,Administration work,Board of Directors,90,2010-01-22,2010-01-23 07:28:36
+399,25,Practical (repetitive),House technic work,House technic work,90,2010-01-21,2010-01-23 07:29:44
+400,10,Theoretical,Administration work,Area Representatives,240,2010-01-19,2010-01-23 09:02:04
+401,10,Theoretical,Community work,Community gathering,180,2010-01-21,2010-01-23 09:03:04
+402,39,Practical (once),House work,House work,240,2010-01-14,2010-01-23 09:46:34
+403,39,Practical (repetitive),House work,Garden,180,2010-01-12,2010-01-23 09:49:43
+404,39,Practical (repetitive),Community work,Sport,90,2010-01-19,2010-01-23 09:51:37
+405,39,Practical (repetitive),Community work,Sport,90,2010-01-17,2010-01-23 09:52:25
+406,39,Practical (repetitive),Community work,Sport,270,2010-01-10,2010-01-23 09:55:21
+407,39,Meeting,Communication work,Events,120,2010-01-16,2010-01-23 09:56:53
+408,26,Practical (once),House technic work,House technic work,180,2010-01-22,2010-01-23 10:23:28
+409,26,Practical (once),Other,,60,2010-01-14,2010-01-23 10:24:24
+410,26,Practical (once),House work,Garden,60,2010-01-14,2010-01-23 10:25:26
+411,26,Practical (once),Other,,30,2010-01-14,2010-01-23 10:28:05
+412,26,Practical (once),House work,Garden,90,2010-01-07,2010-01-23 10:29:45
+413,3,Theoretical,Community work,Community work,60,2010-01-21,2010-01-23 10:43:16
+414,3,Meeting,Administration work,General meeting ,120,2010-01-17,2010-01-23 10:43:51
+415,31,Practical (repetitive),House technic work,House technic work,90,2010-01-22,2010-01-23 11:00:17
+416,31,Practical (repetitive),House work,Garden,60,2010-01-22,2010-01-23 11:01:50
+417,31,Practical (once),House work,Garden,30,2010-01-22,2010-01-23 11:02:50
+418,31,Meeting,Administration work,Supervisory Board,120,2010-01-23,2010-01-24 10:51:39
+419,7,Practical (repetitive),House technic work,House technic work,30,2010-01-23,2010-01-23 13:26:04
+421,43,Practical (repetitive),House work,Cleaning,60,2010-01-23,2010-01-23 14:34:53
+422,27,Practical (once),House work,Garden,180,2010-01-23,2010-03-06 17:15:29
+423,27,Practical (repetitive),House work,Garden,180,2010-01-18,2010-01-23 15:47:28
+424,27,Meeting,Community work,Cohabitation,120,2010-01-12,2010-01-23 15:48:21
+425,37,Practical (repetitive),House work,House work,30,2010-01-17,2010-01-23 16:05:08
+426,13,Practical (repetitive),Communication work,Hotel,120,2010-01-23,2010-01-23 16:05:10
+427,37,Meeting,Community work,Community gathering,150,2010-01-21,2010-01-23 16:07:18
+428,37,Theoretical,Communication work,Events,30,2010-01-23,2010-01-23 16:09:36
+429,39,Practical (repetitive),Communication work,Hotel,120,2010-01-23,2010-01-23 17:17:40
+430,18,Theoretical,Other,,150,2010-01-22,2010-01-23 20:52:10
+431,45,Meeting,Administration work,Supervisory Board,120,2010-01-23,2010-01-23 21:41:57
+432,15,Meeting,Administration work,Supervisory Board,120,2010-01-23,2010-01-23 22:27:12
+433,15,Theoretical,Administration work,Supervisory Board,90,2010-01-23,2010-01-23 22:27:58
+434,15,Practical (once),House technic work,Reactivation,60,2010-01-22,2010-01-23 22:29:27
+435,15,Meeting,Community work,Community gathering,150,2010-01-21,2010-01-23 22:31:33
+436,15,Meeting,Administration work,General meeting ,120,2010-01-17,2010-01-23 22:32:43
+437,15,Meeting,House work,Garden,60,2010-01-19,2010-01-23 22:33:54
+438,15,Practical (repetitive),Community work,Community work,180,2010-01-23,2010-01-23 22:35:19
+439,33,Practical (repetitive),House work,Cooking,600,2010-01-21,2010-01-24 01:11:00
+440,2,Meeting,Community work,Community action,90,2010-01-17,2010-01-24 06:27:36
+442,2,Practical (once),House work,Garden,150,2010-01-21,2010-01-24 06:29:34
+443,2,Theoretical,Community work,Community action,60,2010-01-20,2010-01-24 06:30:28
+444,2,Theoretical,Community work,Visitors,30,2010-01-23,2010-01-24 06:31:46
+446,2,Practical (repetitive),House work,Garden,90,2010-01-20,2010-01-24 06:33:29
+448,2,Meeting,Community work,Community gathering,150,2010-01-21,2010-01-24 06:35:55
+449,30,Practical (repetitive),House work,Garden,120,2010-01-19,2010-01-24 06:45:53
+450,30,Practical (repetitive),House work,Cooking,90,2010-01-21,2010-01-24 06:48:00
+451,30,Theoretical,Community work,Community building,60,2010-01-18,2010-01-24 06:49:22
+452,30,Theoretical,Community work,AK Kommunikationsformen,90,2010-01-20,2010-01-24 06:51:45
+453,30,Meeting,Community work,Community gathering,150,2010-01-21,2010-01-24 06:54:10
+454,30,Practical (repetitive),House work,Cooking,30,2010-01-20,2010-01-24 06:56:00
+455,30,Practical (repetitive),House work,Cleaning,90,2010-01-23,2010-01-24 06:59:01
+456,10,Meeting,Communication work,Communication work,90,2010-01-23,2010-01-24 07:22:25
+457,42,Theoretical,Communication work,Public relations,60,2010-01-24,2010-01-24 07:47:13
+458,42,Theoretical,Communication work,Public relations,60,2010-01-23,2010-01-24 07:47:47
+459,42,Meeting,Community work,AK Kommunikationsformen,60,2010-01-20,2010-01-24 07:48:35
+460,42,Theoretical,Community work,Other,60,2010-01-20,2010-01-24 07:49:24
+461,42,Practical (once),House work,Garden,120,2010-01-14,2010-01-24 07:51:05
+462,42,Theoretical,Communication work,Public relations,60,2010-01-17,2010-01-24 07:52:02
+463,42,Theoretical,Communication work,Public relations,60,2010-01-17,2010-01-24 08:45:35
+464,12,Meeting,Community work,Community gathering,120,2010-01-21,2010-01-24 10:14:29
+465,12,Meeting,House work,House work,120,2010-01-09,2010-01-24 10:14:56
+466,12,Theoretical,House work,House work,60,2010-01-09,2010-01-24 10:15:16
+467,12,Practical (repetitive),House work,Garden,60,2010-01-01,2010-01-24 10:33:28
+468,31,Practical (repetitive),House technic work,House technic work,60,2010-01-23,2010-01-24 10:52:22
+469,31,Theoretical,House technic work,House technic work,120,2010-01-24,2010-01-24 10:53:48
+470,44,Practical (repetitive),House work,Garden,30,2010-01-16,2010-01-24 17:49:23
+471,44,Practical (repetitive),House work,Garden,30,2010-01-18,2010-01-24 17:49:57
+472,44,Practical (repetitive),House work,Garden,30,2010-01-19,2010-01-24 17:50:11
+473,44,Practical (repetitive),House work,Garden,30,2010-01-21,2010-01-24 17:50:39
+474,44,Meeting,Community work,Community gathering,180,2010-01-21,2010-01-24 17:51:40
+475,44,Theoretical,Communication work,Events,30,2010-01-21,2010-01-24 17:52:27
+476,44,Theoretical,Communication work,Events,120,2010-01-24,2010-01-24 17:53:01
+477,50,Practical (repetitive),Communication work,Events,90,2010-01-03,2010-01-24 19:23:01
+478,50,Practical (repetitive),Community work,Other,180,2010-01-13,2010-01-24 19:24:16
+479,50,Practical (repetitive),Community work,Other,180,2010-01-06,2010-01-24 19:24:49
+480,50,Practical (repetitive),Community work,Other,120,2010-01-08,2010-01-24 19:32:01
+481,50,Practical (repetitive),Community work,Other,120,2010-01-01,2010-01-24 19:32:45
+482,25,Meeting,Administration work,Board of Directors,210,2010-01-24,2010-01-24 21:50:15
+483,17,Theoretical,House work,House work,60,2010-01-25,2010-01-25 08:01:26
+484,51,Practical (once),House work,Garden,180,2010-01-14,2010-01-25 14:54:44
+485,51,Meeting,House work,Garden,120,2010-01-19,2010-01-26 11:07:31
+486,44,Theoretical,Communication work,Events,90,2010-01-25,2010-01-25 18:45:44
+487,29,Meeting,Administration work,General meeting ,120,2010-01-17,2010-01-25 19:02:47
+488,29,Practical (repetitive),House work,Garden,120,2010-01-17,2010-01-25 19:04:33
+489,29,Practical (repetitive),House work,Garden,90,2010-01-19,2010-01-25 19:05:51
+490,29,Meeting,House work,Garden,120,2010-01-25,2010-01-25 19:07:01
+491,8,Meeting,House technic work,Outdoor planning,150,2010-01-19,2010-01-25 20:24:53
+492,8,Theoretical,House technic work,Reactivation,240,2010-01-25,2010-01-25 20:26:08
+493,8,Theoretical,House work,Garden,120,2010-01-26,2010-01-25 20:27:29
+494,11,Theoretical,Community work,Community gathering,120,2010-01-25,2010-01-25 20:51:27
+495,25,Theoretical,Administration work,Board of Directors,150,2010-01-25,2010-01-26 06:55:41
+496,52,Theoretical,Community work,Other,90,2010-01-21,2010-01-26 09:06:17
+497,52,Theoretical,House work,Cleaning,150,2010-01-25,2010-01-26 09:07:23
+498,52,Practical (once),House work,Cleaning,120,2010-01-26,2010-01-26 09:08:21
+499,51,Meeting,Community work,Community gathering,180,2010-01-21,2010-01-26 11:04:11
+500,51,Meeting,Administration work,General meeting ,120,2010-01-17,2010-01-26 11:05:52
+501,51,Meeting,Administration work,Other,120,2010-01-07,2010-01-26 11:06:38
+502,43,Practical (repetitive),Community work,Cake Day,60,2010-01-25,2010-01-26 12:32:04
+503,43,Meeting,House work,Garden,120,2010-01-25,2010-01-26 12:32:57
+504,53,Practical (repetitive),House work,Garden,90,2010-01-04,2010-01-26 13:43:19
+505,53,Practical (repetitive),House work,House work,30,2010-01-08,2010-01-26 13:48:39
+506,53,Practical (repetitive),House work,Cooking,30,2010-01-09,2010-01-26 13:51:26
+507,53,Meeting,House work,House work,120,2010-01-09,2010-01-26 13:52:55
+508,53,Practical (repetitive),House work,Garden,90,2010-01-12,2010-01-26 13:54:42
+509,53,Practical (repetitive),House work,Cooking,360,2010-01-14,2010-01-26 13:56:32
+510,53,Practical (repetitive),House work,House work,120,2010-01-16,2010-01-26 13:58:33
+511,53,Practical (repetitive),House work,Garden,60,2010-01-24,2010-01-26 14:00:12
+512,53,Meeting,House work,Garden,120,2010-01-25,2010-01-26 14:00:59
+513,10,Meeting,Administration work,Board of Directors,120,2010-01-24,2010-01-26 16:20:07
+514,10,Theoretical,Administration work,Board of Directors,90,2010-01-26,2010-01-26 16:20:50
+515,2,Theoretical,Community work,Visitors,90,2010-01-27,2010-01-27 06:44:31
+516,20,Meeting,Community work,Community gathering,150,2010-01-21,2010-01-27 10:08:37
+518,20,Practical (repetitive),House work,Cleaning,60,2010-01-23,2010-01-27 10:10:00
+519,20,Theoretical,House work,Room maintenance,30,2010-01-23,2010-01-27 10:11:14
+520,20,Theoretical,Community work,Visitors,30,2010-01-23,2010-01-27 10:12:13
+521,20,Theoretical,Community work,Visitors,60,2010-01-24,2010-01-27 10:14:32
+522,20,Theoretical,Community work,Visitors,30,2010-01-26,2010-01-27 10:15:53
+523,20,Practical (repetitive),House work,Garden,60,2010-01-26,2010-01-27 10:16:27
+524,20,Practical (repetitive),House work,Garden,120,2010-01-26,2010-01-27 10:18:33
+525,20,Theoretical,Community work,Community work,180,2010-01-23,2010-01-27 10:23:04
+526,31,Theoretical,House technic work,House technic work,180,2010-01-26,2010-01-27 18:44:04
+527,31,Theoretical,House technic work,House technic work,60,2010-01-26,2010-01-27 18:44:48
+528,31,Practical (repetitive),House technic work,House technic work,60,2010-01-26,2010-01-27 18:45:28
+529,31,Practical (repetitive),House work,Garden,60,2010-01-26,2010-01-27 18:46:42
+530,31,Theoretical,House technic work,House technic work,60,2010-01-27,2010-01-27 18:48:22
+531,47,Practical (once),House work,Garden,90,2010-01-23,2010-01-27 19:16:44
+532,47,Practical (once),House technic work,Interior planning,150,2010-01-23,2010-01-27 19:17:25
+533,47,Practical (once),House technic work,Interior planning,120,2010-01-24,2010-01-27 19:18:10
+534,47,Practical (repetitive),House technic work,Outdoor planning,60,2010-01-25,2010-01-27 19:18:48
+535,47,Practical (once),House technic work,Interior planning,120,2010-01-26,2010-01-27 19:19:21
+536,11,Practical (repetitive),House work,Garden,60,2010-01-28,2010-01-28 12:55:45
+537,32,Practical (repetitive),Community work,Other,120,2010-01-28,2010-01-28 13:39:51
+538,7,Practical (repetitive),House work,Garden,60,2010-01-28,2010-01-28 14:31:26
+539,7,Practical (repetitive),House technic work,House technic work,30,2010-01-28,2010-01-28 14:31:38
+540,37,Practical (once),House work,Room maintenance,150,2010-01-28,2010-01-29 14:06:08
+541,54,Practical (repetitive),House technic work,House technic work,60,2010-01-02,2010-03-06 21:58:48
+542,54,Theoretical,Community work,Community building,90,2010-01-05,2010-01-28 15:41:07
+543,54,Meeting,Community work,Community building,60,2010-01-05,2010-01-28 15:42:20
+544,54,Meeting,Community work,Community work,120,2010-01-07,2010-01-28 15:44:53
+546,54,Meeting,Community work,Community building,90,2010-01-16,2010-01-28 15:47:34
+547,54,Meeting,Community work,Community work,90,2010-01-17,2010-01-28 15:50:43
+548,54,Theoretical,Community work,Community building,300,2010-01-19,2010-01-28 15:52:28
+549,54,Meeting,Community work,Community work,150,2010-01-21,2010-01-28 15:57:35
+550,54,Practical (once),House work,Garden,150,2010-01-28,2010-01-28 15:56:39
+551,54,Meeting,Community work,Trustmangement,150,2010-01-09,2010-01-28 15:59:42
+552,22,Meeting,House technic work,House technic work,120,2010-01-22,2010-01-28 16:09:30
+553,22,Meeting,Administration work,General meeting ,120,2010-01-17,2010-01-28 16:11:40
+554,22,Meeting,Community work,Community gathering,180,2010-01-21,2010-01-28 16:14:05
+555,23,Practical (repetitive),House work,Garden,60,2010-01-27,2010-01-28 16:26:26
+556,23,Practical (once),House technic work,Reactivation,90,2010-01-28,2010-01-28 16:27:39
+557,23,Practical (repetitive),House work,Garden,60,2010-01-28,2010-01-28 16:28:23
+558,13,Meeting,Communication work,Hotel,120,2010-01-27,2010-01-29 08:17:31
+559,36,Practical (repetitive),House work,Fair Work System,600,2010-01-04,2010-01-29 10:55:15
+560,36,Practical (once),House work,Fair Work System,600,2010-01-07,2010-01-29 10:57:22
+561,36,Meeting,House work,Fair Work System,600,2010-01-02,2010-01-29 11:00:44
+562,36,Meeting,House work,Garden,150,2010-01-09,2010-01-29 11:01:25
+563,36,Practical (once),House work,Cooking,720,2010-01-21,2010-01-29 11:03:40
+564,20,Theoretical,Community work,Visitors,30,2010-01-29,2010-01-29 12:33:53
+565,20,Practical (repetitive),House work,Garden,210,2010-01-28,2010-01-29 12:35:43
+566,20,Practical (repetitive),Community work,Other,90,2010-01-29,2010-01-29 12:37:28
+567,37,Practical (repetitive),House work,Cleaning,60,2010-01-29,2010-01-29 14:06:49
+568,25,Practical (once),Other,,240,2010-01-28,2010-01-29 16:41:18
+569,25,Theoretical,Administration work,Board of Directors,120,2010-01-29,2010-01-29 16:43:09
+570,25,Practical (repetitive),House technic work,House technic work,90,2010-01-26,2010-01-29 16:45:54
+571,25,Theoretical,House technic work,House technic work,60,2010-01-26,2010-01-29 16:47:25
+572,7,Practical (once),House work,Garden,60,2010-01-29,2010-01-29 17:16:38
+573,8,Practical (repetitive),House work,Garden,240,2010-01-28,2010-01-29 17:28:18
+574,8,Practical (repetitive),Community work,Community work,120,2010-01-29,2010-01-29 17:30:37
+575,14,Meeting,House technic work,Interior planning,90,2010-01-26,2010-01-30 16:29:05
+576,14,Practical (once),House work,Room maintenance,270,2010-01-28,2010-01-30 16:30:43
+577,44,Practical (once),Other,,150,2010-01-28,2010-01-30 18:16:00
+578,21,Practical (repetitive),House work,Garden,150,2010-01-23,2010-01-30 18:30:26
+579,21,Practical (repetitive),Communication work,Hotel,60,2010-01-23,2010-01-30 18:32:38
+580,21,Practical (repetitive),House work,Garden,30,2010-01-25,2010-01-30 18:34:54
+581,21,Practical (once),House technic work,Reactivation,120,2010-01-28,2010-01-30 18:38:03
+582,7,Practical (repetitive),House technic work,House technic work,30,2010-01-30,2010-01-30 19:10:04
+583,10,Theoretical,Administration work,Area Representatives,60,2010-01-29,2010-01-31 11:33:34
+584,10,Practical (repetitive),House work,Garden,120,2010-01-28,2010-01-31 11:34:52
+585,44,Practical (once),Other,,120,2010-01-31,2010-01-31 12:18:57
+586,22,Practical (once),House technic work,Interior planning,90,2010-01-31,2010-01-31 13:21:07
+587,27,Practical (once),Community work,Community action,240,2010-01-28,2010-01-31 15:08:06
+588,27,Practical (once),Other,,60,2010-01-29,2010-01-31 15:12:36
+589,27,Theoretical,Community work,Community work,90,2010-01-31,2010-01-31 15:10:55
+590,27,Practical (repetitive),Other,,60,2010-01-31,2010-01-31 15:11:45
+591,7,Practical (repetitive),House technic work,House technic work,30,2010-01-31,2010-01-31 17:51:52
+592,7,Practical (repetitive),House technic work,Reactivation,90,2010-01-31,2010-01-31 17:54:00
+593,44,Practical (once),Other,,90,2010-01-31,2010-01-31 19:18:07
+594,3,Theoretical,House technic work,Network,480,2010-01-31,2010-01-31 21:37:56
+595,44,Theoretical,Communication work,Events,90,2010-03-01,2010-03-01 16:11:26
+596,37,Theoretical,Communication work,Events,60,2010-03-01,2010-03-01 16:24:53
+597,34,Practical (repetitive),Other,,150,2010-01-23,2010-03-01 21:50:35
+598,14,Practical (once),Community work,Other,60,2010-01-31,2010-03-01 22:09:17
+599,14,Theoretical,House technic work,Interior planning,90,2010-03-01,2010-03-01 22:10:43
+600,4,Practical (repetitive),House work,Garden,60,2010-01-28,2010-03-02 07:04:55
+601,4,Practical (once),House work,Cleaning,240,2010-01-28,2010-03-02 07:06:26
+603,4,Meeting,Communication work,Events,120,2010-01-16,2010-03-02 07:10:03
+604,4,Meeting,House work,Garden,90,2010-01-19,2010-03-02 07:10:54
+605,43,Practical (repetitive),Community work,Cake Day,90,2010-03-02,2010-03-02 19:16:35
+606,43,Practical (repetitive),House work,Garden,120,2010-01-28,2010-03-02 19:18:13
+607,24,Meeting,Community work,Cake Day,120,2010-01-30,2010-03-02 19:56:21
+608,24,Meeting,House work,Room maintenance,120,2010-01-31,2010-03-02 19:58:31
+609,24,Meeting,House work,House work,120,2010-01-19,2010-03-02 20:05:19
+610,24,Practical (repetitive),Community work,Community action,90,2010-01-23,2010-03-02 20:06:12
+611,24,Practical (repetitive),Community work,Community action,90,2010-01-25,2010-03-02 20:07:08
+612,24,Practical (repetitive),Community work,Community action,90,2010-01-30,2010-03-02 20:08:11
+613,24,Practical (once),Community work,Cake Day,180,2010-01-24,2010-03-02 20:09:37
+614,7,Practical (repetitive),House technic work,House technic work,30,2010-03-02,2010-03-02 20:39:24
+615,41,Practical (repetitive),House work,Garden,120,2010-01-28,2010-03-02 21:47:10
+616,41,Practical (repetitive),House work,Cooking,60,2010-01-21,2010-03-02 21:49:43
+617,22,Meeting,House technic work,House technic work,120,2010-03-01,2010-03-03 17:01:53
+618,22,Meeting,House technic work,House technic work,150,2010-03-03,2010-03-03 20:38:15
+619,14,Practical (once),House work,Room maintenance,90,2010-03-02,2010-03-03 17:37:44
+620,14,Theoretical,House technic work,House technic work,60,2010-03-03,2010-03-03 17:39:02
+621,14,Meeting,House technic work,House technic work,120,2010-03-03,2010-03-03 17:40:00
+622,31,Theoretical,House technic work,House technic work,120,2010-03-03,2010-03-03 18:49:44
+623,31,Theoretical,House technic work,House technic work,90,2010-03-02,2010-03-03 18:50:30
+624,8,Practical (repetitive),House work,Errands,150,2010-03-03,2010-03-03 20:47:09
+625,8,Practical (once),House work,House work,240,2010-03-02,2010-03-03 20:48:35
+626,8,Meeting,House technic work,House technic work,150,2010-03-03,2010-03-03 20:49:26
+627,7,Practical (repetitive),House technic work,House technic work,30,2010-03-03,2010-03-03 21:06:51
+628,7,Practical (repetitive),House technic work,House technic work,60,2010-03-03,2010-03-03 21:07:59
+629,7,Meeting,House technic work,House technic work,150,2010-03-03,2010-03-03 21:09:10
+630,34,Theoretical,House work,Room maintenance,30,2010-03-03,2010-03-04 06:28:49
+631,34,Practical (repetitive),House work,Room maintenance,180,2010-03-04,2010-03-05 21:16:32
+632,22,Practical (repetitive),House work,Cooking,270,2010-03-04,2010-03-04 15:03:47
+633,7,Practical (repetitive),House technic work,House technic work,180,2010-03-04,2010-03-04 19:40:38
+634,7,Practical (once),House work,Garden,30,2010-03-04,2010-03-04 22:29:48
+635,1,Practical (once),House technic work,House technic work,480,2010-03-04,2010-03-05 07:01:39
+636,1,Meeting,Community work,Community gathering,180,2010-01-21,2010-03-05 07:04:52
+637,1,Theoretical,Community work,Community gathering,240,2010-01-17,2010-03-05 07:07:02
+638,1,Practical (repetitive),House technic work,House technic work,90,2010-03-04,2010-03-05 07:08:38
+639,20,Practical (once),Community work,Movie Night,60,2010-01-30,2010-03-05 08:24:14
+640,20,Practical (once),Community work,Movie Night,210,2010-03-01,2010-03-05 08:26:14
+641,20,Practical (repetitive),House work,Garden,60,2010-03-02,2010-03-05 08:27:31
+642,20,Theoretical,House work,Room maintenance,30,2010-03-03,2010-03-05 08:28:47
+643,20,Practical (once),House work,Room maintenance,180,2010-03-04,2010-03-05 08:30:08
+644,20,Practical (repetitive),House work,Garden,60,2010-03-04,2010-03-05 08:31:11
+645,20,Practical (once),Community work,Other,90,2010-03-03,2010-03-05 09:11:44
+646,20,Theoretical,Community work,Visitors,30,2010-03-03,2010-03-05 09:12:42
+647,17,Meeting,Community work,Area Representatives,240,2010-03-02,2010-03-05 16:35:18
+648,17,Practical (once),House work,Garden,360,2010-03-04,2010-03-05 16:36:22
+649,17,Theoretical,House work,House work,60,2010-03-05,2010-03-05 16:38:26
+650,17,Practical (repetitive),House work,Garden,60,2010-03-05,2010-03-05 16:38:56
+651,17,Theoretical,House work,Garden,90,2010-03-05,2010-03-05 16:39:45
+652,43,Practical (repetitive),Community work,Cake Day,150,2010-03-03,2010-03-05 16:45:18
+653,43,Practical (repetitive),Community work,Community action,180,2010-03-04,2010-03-05 16:46:31
+654,52,Practical (repetitive),House work,Garden,150,2010-03-04,2010-03-05 17:47:54
+655,52,Practical (repetitive),House work,Cleaning,120,2010-03-05,2010-03-05 17:49:24
+656,52,Practical (once),Community work,Other,30,2010-03-05,2010-03-05 17:51:02
+657,7,Practical (once),House work,Garden,30,2010-03-05,2010-03-05 19:55:38
+658,37,Practical (repetitive),House work,Cleaning,60,2010-03-05,2010-03-05 20:09:54
+660,8,Practical (repetitive),House work,Garden,150,2010-03-04,2010-03-05 21:33:23
+661,8,Practical (repetitive),House work,Garden,180,2010-03-05,2010-03-05 21:34:39
+662,9,Theoretical,Administration work,Board of Directors,60,2010-01-22,2010-03-05 21:51:37
+663,9,Meeting,Administration work,Board of Directors,180,2010-01-24,2010-03-05 21:52:07
+664,9,Theoretical,Administration work,Board of Directors,60,2010-01-28,2010-03-05 21:54:03
+665,9,Theoretical,Administration work,Board of Directors,60,2010-01-29,2010-03-05 21:55:37
+666,9,Meeting,Community work,Area Representatives,180,2010-03-02,2010-03-05 21:56:15
+667,10,Practical (repetitive),House work,House work,240,2010-03-04,2010-03-05 22:47:19
+668,44,Practical (once),House work,Garden,180,2010-03-04,2010-03-06 08:53:33
+669,18,Theoretical,Communication work,Communication work,180,2010-01-26,2010-03-06 09:14:59
+670,18,Meeting,Communication work,Hotel,120,2010-01-27,2010-03-06 09:15:56
+671,18,Theoretical,Communication work,Communication work,90,2010-01-01,2010-03-06 09:17:09
+672,18,Practical (once),House work,House work,30,2010-01-28,2010-03-06 09:17:57
+673,51,Practical (once),House work,Cooking,300,2010-03-04,2010-03-06 09:19:16
+674,11,Meeting,Community work,Area Representatives,120,2010-03-02,2010-03-06 10:19:59
+675,11,Theoretical,Community work,Area Representatives,60,2010-03-04,2010-03-06 10:21:07
+676,11,Theoretical,Community work,Community work,60,2010-03-04,2010-03-06 10:22:13
+677,44,Theoretical,Communication work,Events,150,2010-03-06,2010-03-06 11:14:41
+678,31,Theoretical,House technic work,House technic work,60,2010-03-04,2010-03-06 12:54:07
+679,31,Theoretical,House technic work,House technic work,60,2010-03-06,2010-03-06 12:54:42
+680,31,Theoretical,House technic work,House technic work,90,2010-03-05,2010-03-06 12:55:22
+681,27,Practical (once),House work,Garden,420,2010-03-04,2010-03-06 17:13:36
+682,27,Practical (repetitive),Community work,Cake Day,90,2010-03-03,2010-03-06 17:14:37
+683,5,Practical (repetitive),Community work,Cake Day,150,2010-01-26,2010-03-06 18:43:04
+684,5,Practical (repetitive),Community work,Cake Day,240,2010-01-27,2010-03-06 18:45:35
+685,5,Practical (repetitive),Community work,Cake Day,120,2010-03-02,2010-03-06 18:48:59
+686,5,Practical (repetitive),Community work,Cake Day,180,2010-03-03,2010-03-06 18:50:54
+687,5,Practical (repetitive),Community work,Cake Day,60,2010-01-26,2010-03-06 18:52:58
+688,7,Meeting,House technic work,Reactivation,30,2010-03-06,2010-03-06 19:16:54
+689,23,Practical (once),House technic work,House technic work,300,2010-01-31,2010-03-06 19:27:48
+690,23,Practical (once),House technic work,House technic work,240,2010-03-01,2010-03-06 19:28:20
+691,23,Practical (once),House technic work,House technic work,180,2010-03-04,2010-03-06 19:29:14
+692,23,Practical (repetitive),House work,Garden,60,2010-03-04,2010-03-06 19:30:05
+693,23,Meeting,House technic work,House technic work,120,2010-03-03,2010-03-06 19:31:41
+694,54,Practical (repetitive),House technic work,House technic work,60,2010-03-05,2010-03-06 21:58:11
+695,54,Meeting,Community work,Community work,180,2010-03-06,2010-03-06 21:59:49
+696,42,Meeting,Community work,Community work,180,2010-03-06,2010-03-07 16:46:32
+697,22,Meeting,Community work,Community work,150,2010-03-06,2010-03-07 16:47:11
+698,42,Practical (once),Other,,240,2010-01-28,2010-03-07 17:03:35
+699,42,Practical (once),Other,,90,2010-01-29,2010-03-07 17:03:25
+700,22,Practical (repetitive),House technic work,Outdoor planning,120,2010-03-07,2010-03-07 16:49:00
+701,42,Practical (once),House work,Garden,90,2010-01-27,2010-03-07 16:53:29
+702,42,Theoretical,Communication work,Communication work,60,2010-03-07,2010-03-07 16:55:10
+703,42,Theoretical,Communication work,Communication work,90,2010-01-31,2010-03-07 16:56:40
+704,42,Theoretical,Communication work,Public relations,90,2010-01-25,2010-03-07 16:58:31
+705,42,Theoretical,Communication work,Public relations,30,2010-01-26,2010-03-07 16:58:58
+706,42,Meeting,Community work,Trustmangement,120,2010-03-08,2010-03-07 17:00:09
+707,42,Practical (once),Other,,300,2010-01-22,2010-03-07 17:03:06
+708,7,Practical (repetitive),House technic work,Reactivation,30,2010-03-07,2010-03-07 19:27:56
+709,35,Meeting,House work,House work,60,2010-01-30,2010-03-07 21:48:13
+710,35,Practical (repetitive),House work,House work,90,2010-01-27,2010-03-07 21:49:24
+711,35,Practical (repetitive),House work,House work,120,2010-01-26,2010-03-07 21:50:18
+712,35,Theoretical,House work,House work,60,2010-03-05,2010-03-07 21:51:10
+713,35,Practical (repetitive),House work,House work,180,2010-03-03,2010-03-07 21:52:20
+714,35,Practical (repetitive),House work,House work,210,2010-03-03,2010-03-07 21:53:11
+715,35,Practical (repetitive),House work,House work,120,2010-01-27,2010-03-07 21:53:53
+716,35,Theoretical,House work,Garden,60,2010-03-07,2010-03-07 21:55:02
+717,42,Practical (once),House work,Garden,120,2010-03-07,2010-03-07 22:19:00
+718,47,Practical (once),House work,Garden,360,2010-03-04,2010-03-08 06:33:24
+719,25,Theoretical,House technic work,House technic work,60,2010-03-06,2010-03-08 07:20:01
+720,44,Theoretical,Communication work,Events,30,2010-03-08,2010-03-08 09:08:20
+721,44,Theoretical,House work,Garden,60,2010-03-07,2010-03-08 09:09:38
+722,38,Practical (repetitive),Community work,Other,30,2010-01-25,2010-03-08 10:14:51
+723,11,Meeting,Community work,Community work,180,2010-03-06,2010-03-08 12:16:35
+724,13,Meeting,Community work,Community work,150,2010-03-06,2010-03-08 14:54:45
+725,13,Practical (repetitive),Communication work,Hotel,120,2010-03-08,2010-03-08 14:55:54
+726,25,Theoretical,House technic work,House technic work,120,2010-03-01,2010-03-08 15:22:10
+727,25,Theoretical,Administration work,Board of Directors,60,2010-03-05,2010-03-08 15:24:18
+728,6,Meeting,Community work,Community gathering,120,2010-01-17,2010-03-08 16:04:35
+729,6,Theoretical,Community work,AK Kommunikationsformen,30,2010-01-20,2010-03-08 16:06:17
+730,6,Meeting,Community work,Community gathering,120,2010-01-21,2010-03-08 16:07:29
+731,6,Practical (repetitive),House work,Garden,90,2010-01-28,2010-03-08 16:08:53
+732,6,Theoretical,Community work,Cohabitation,60,2010-01-31,2010-03-08 16:12:00
+733,6,Meeting,Community work,Community work,120,2010-03-06,2010-03-08 16:13:46
+734,6,Theoretical,House work,House work,30,2010-03-05,2010-03-08 16:14:46
+735,6,Practical (repetitive),House work,Cleaning,150,2010-03-04,2010-03-08 16:16:10
+736,29,Practical (repetitive),House work,Garden,150,2010-03-06,2010-03-08 16:42:53
+738,29,Practical (repetitive),House work,Garden,120,2010-03-07,2010-03-08 16:46:50
+739,32,Theoretical,House work,Garden,90,2010-03-07,2010-03-08 18:30:49
+740,32,Practical (once),House work,Garden,90,2010-03-04,2010-03-08 18:32:52
+741,32,Theoretical,House work,Cooking,90,2010-03-08,2010-03-08 18:34:19
+742,4,Practical (repetitive),House work,Cooking,240,2010-03-03,2010-03-08 20:38:53
+743,4,Practical (once),Community work,Visitors,180,2010-03-03,2010-03-08 20:39:47
+744,4,Practical (repetitive),House work,Cooking,60,2010-03-03,2010-03-08 20:40:15
+745,4,Practical (repetitive),House work,Cooking,300,2010-03-04,2010-03-08 20:41:07
+746,12,Practical (repetitive),House work,Garden,180,2010-03-04,2010-03-08 20:46:47
+747,12,Meeting,House work,Fair Work System,120,2010-03-08,2010-03-08 20:47:22
+748,12,Theoretical,House work,Fair Work System,60,2010-03-08,2010-03-08 20:47:44
+749,17,Theoretical,House work,House work,60,2010-03-08,2010-03-09 07:44:16
+750,25,Practical (once),House technic work,House technic work,210,2010-03-09,2010-03-09 12:10:03
+751,14,Theoretical,House technic work,House technic work,60,2010-03-03,2010-03-09 12:54:20
+752,14,Practical (repetitive),House work,Room maintenance,60,2010-03-06,2010-03-09 12:55:55
+753,14,Practical (repetitive),House work,Garden,240,2010-03-04,2010-03-09 12:58:39
+754,31,Practical (once),House technic work,House technic work,480,2010-03-09,2010-03-13 14:05:05
+755,31,Theoretical,House technic work,House technic work,180,2010-03-08,2010-03-09 15:55:57
+756,31,Theoretical,House technic work,House technic work,150,2010-03-07,2010-03-09 15:58:45
+757,11,Theoretical,Community work,Community work,60,2010-03-08,2010-03-09 19:07:09
+758,11,Meeting,Community work,Cohabitation,120,2010-03-09,2010-03-09 20:06:35
+759,7,Practical (repetitive),House technic work,House technic work,30,2010-03-09,2010-03-09 21:11:11
+760,2,Meeting,Community work,Trustmangement,90,2010-03-08,2010-03-09 21:52:31
+761,2,Meeting,Community work,Visitors,90,2010-03-07,2010-03-09 21:53:31
+762,2,Meeting,Community work,Community action,30,2010-03-07,2010-03-09 21:54:13
+763,2,Practical (repetitive),House work,Garden,60,2010-03-08,2010-03-09 21:56:10
+764,42,Meeting,Community work,Cohabitation,90,2010-03-09,2010-03-10 08:47:52
+765,42,Theoretical,Communication work,Public relations,90,2010-03-10,2010-03-10 08:48:55
+766,15,Practical (once),House technic work,Reactivation,180,2010-01-27,2010-03-10 09:33:02
+767,15,Meeting,Community work,Community work,180,2010-03-06,2010-03-10 09:35:23
+768,15,Theoretical,Administration work,Supervisory Board,60,2010-01-30,2010-03-10 09:37:05
+769,15,Practical (once),House work,Garden,60,2010-03-05,2010-03-10 09:38:34
+770,15,Theoretical,Community work,Community building,30,2010-03-05,2010-03-10 09:39:44
+771,32,Theoretical,House work,Cooking,60,2010-03-09,2010-03-10 13:55:10
+772,32,Theoretical,House work,Cooking,60,2010-03-10,2010-03-10 13:55:47
+773,29,Meeting,Community work,Community work,180,2010-03-06,2010-03-10 14:10:00
+774,29,Meeting,House work,Fair Work System,150,2010-03-08,2010-03-10 14:11:06
+775,30,Practical (repetitive),House work,Cleaning,150,2010-03-04,2010-03-10 14:35:48
+776,30,Meeting,Community work,Community work,180,2010-03-05,2010-03-10 14:37:19
+777,30,Practical (once),Community work,Cake Day,60,2010-03-03,2010-03-10 14:38:32
+778,29,Theoretical,Community work,Community building,30,2010-03-07,2010-03-10 20:57:45
+779,29,Theoretical,House work,Garden,30,2010-03-10,2010-03-10 20:59:14
+780,2,Practical (once),House work,Cooking,90,2010-03-09,2010-03-10 23:26:57
+781,2,Practical (repetitive),House work,Garden,60,2010-03-10,2010-03-10 23:28:53
+782,17,Meeting,House work,Cooking,120,2010-03-10,2010-03-11 08:38:31
+783,17,Theoretical,House work,Garden,60,2010-03-10,2010-03-11 08:39:29
+784,8,Theoretical,House work,Garden,120,2010-03-11,2010-03-11 10:18:48
+785,55,Meeting,House work,Fair Work System,120,2010-03-08,2010-03-11 12:22:03
+786,54,Meeting,Community work,Trustmangement,120,2010-03-08,2010-03-11 14:42:15
+787,40,Practical (repetitive),House work,Cleaning,210,2010-01-27,2010-03-11 14:42:53
+788,54,Theoretical,Community work,Community building,180,2010-03-11,2010-03-11 14:44:34
+789,40,Theoretical,Community work,Community building,180,2010-03-11,2010-03-11 14:46:41
+790,20,Practical (once),Community work,Other,360,2010-03-06,2010-03-11 14:48:05
+791,20,Practical (once),Community work,Other,120,2010-03-07,2010-03-11 14:49:25
+792,20,Meeting,Community work,Visitors,60,2010-03-08,2010-03-11 14:51:18
+793,20,Practical (repetitive),Community work,Visitors,30,2010-03-08,2010-03-11 14:52:08
+794,20,Meeting,Community work,Other,30,2010-03-08,2010-03-11 14:54:57
+795,21,Practical (repetitive),House technic work,Interior planning,60,2010-03-02,2010-03-11 16:33:42
+796,21,Practical (repetitive),House work,Cleaning,60,2010-03-10,2010-03-11 16:36:02
+797,21,Practical (repetitive),Community work,Cake Day,30,2010-03-10,2010-03-11 16:37:39
+798,21,Practical (once),House work,Garden,360,2010-03-11,2010-03-11 16:39:17
+799,13,Practical (repetitive),House work,Cleaning,60,2010-03-11,2010-03-11 18:16:05
+800,7,Practical (once),House technic work,Reactivation,150,2010-03-11,2010-03-11 22:19:01
+801,7,Practical (repetitive),House technic work,House technic work,30,2010-03-11,2010-03-11 22:19:14
+802,2,Practical (repetitive),House work,Garden,180,2010-03-11,2010-03-11 22:33:54
+803,30,Practical (once),House work,Garden,210,2010-03-11,2010-03-11 22:40:23
+804,30,Theoretical,House work,Room maintenance,30,2010-03-11,2010-03-11 22:53:52
+805,7,Practical (repetitive),House work,Garden,60,2010-03-12,2010-03-12 08:56:19
+806,32,Theoretical,House work,Cooking,120,2010-03-10,2010-03-12 11:33:04
+807,44,Practical (once),Other,,60,2010-03-11,2010-03-12 12:40:58
+808,34,Theoretical,Communication work,Events,180,2010-03-12,2010-03-12 13:33:51
+809,15,Theoretical,Communication work,Public relations,180,2010-03-12,2010-03-12 13:35:28
+810,11,Theoretical,Community work,Community gathering,60,2010-03-12,2010-03-12 15:05:44
+811,2,Theoretical,Community work,Visitors,60,2010-03-12,2010-03-12 15:55:06
+812,2,Theoretical,Community work,Visitors,30,2010-03-12,2010-03-12 18:29:37
+813,38,Meeting,Community work,Trustmangement,120,2010-03-08,2010-03-12 18:42:15
+814,38,Practical (repetitive),House work,Garden,30,2010-03-12,2010-03-12 18:44:59
+815,20,Practical (repetitive),Communication work,Public relations,150,2010-03-12,2010-03-12 19:21:06
+816,20,Theoretical,Community work,Visitors,30,2010-03-12,2010-03-12 19:22:02
+817,5,Practical (repetitive),Community work,Cake Day,60,2010-03-03,2010-03-12 19:22:46
+818,5,Practical (repetitive),Community work,Cake Day,120,2010-03-08,2010-03-12 19:26:15
+819,5,Practical (repetitive),Community work,Cake Day,120,2010-03-09,2010-03-12 19:29:28
+820,5,Practical (repetitive),Community work,Cake Day,180,2010-03-10,2010-03-12 19:31:55
+821,42,Practical (repetitive),Communication work,Public relations,180,2010-03-12,2010-03-13 08:04:58
+822,42,Practical (repetitive),Communication work,Public relations,90,2010-03-11,2010-03-13 08:05:47
+823,42,Practical (once),House technic work,Reactivation,60,2010-03-11,2010-03-13 08:06:26
+824,56,Meeting,Administration work,Board of Directors,180,2010-01-05,2010-03-13 08:30:51
+825,56,Meeting,Administration work,Board of Directors,180,2010-01-07,2010-03-13 08:32:21
+826,56,Meeting,Administration work,Board of Directors,180,2010-01-10,2010-03-13 08:33:38
+827,56,Meeting,Administration work,Board of Directors,120,2010-01-17,2010-03-13 08:35:12
+828,56,Meeting,Administration work,Board of Directors,270,2010-01-19,2010-03-13 08:37:16
+829,56,Meeting,Administration work,Board of Directors,180,2010-01-19,2010-03-13 08:39:02
+830,56,Meeting,Administration work,Board of Directors,180,2010-01-21,2010-03-13 08:40:16
+831,56,Meeting,Administration work,Board of Directors,180,2010-03-02,2010-03-13 08:41:56
+832,56,Meeting,Administration work,Board of Directors,180,2010-03-07,2010-03-13 08:42:47
+833,56,Theoretical,Administration work,Board of Directors,240,2010-01-01,2010-03-13 08:44:48
+834,56,Theoretical,Administration work,Board of Directors,360,2010-01-02,2010-03-13 08:45:49
+835,56,Theoretical,Administration work,Board of Directors,360,2010-01-03,2010-03-13 08:47:36
+836,56,Theoretical,Administration work,Board of Directors,420,2010-01-04,2010-03-13 08:48:32
+837,56,Theoretical,Administration work,Board of Directors,360,2010-01-05,2010-03-13 08:49:18
+838,56,Theoretical,Administration work,Board of Directors,600,2010-01-06,2010-03-13 08:50:30
+839,56,Theoretical,Administration work,Board of Directors,120,2010-01-07,2010-03-13 08:51:05
+840,56,Theoretical,Administration work,Board of Directors,120,2010-01-08,2010-03-13 08:52:35
+841,51,Practical (once),House work,Garden,360,2010-03-11,2010-03-13 09:04:55
+842,51,Meeting,Community work,Community work,180,2010-03-06,2010-03-13 09:24:11
+843,13,Meeting,Communication work,Hotel,180,2010-03-12,2010-03-13 09:53:05
+844,13,Practical (repetitive),Communication work,Hotel,30,2010-03-12,2010-03-13 09:54:55
+845,22,Practical (repetitive),Community work,Cake Day,90,2010-03-10,2010-03-13 10:41:00
+846,44,Theoretical,Other,,60,2010-03-13,2010-03-13 12:36:44
+847,56,Theoretical,Administration work,Board of Directors,420,2010-01-15,2010-03-13 13:53:36
+848,56,Theoretical,Administration work,Board of Directors,360,2010-01-16,2010-03-13 13:55:08
+849,56,Theoretical,Administration work,Board of Directors,420,2010-01-17,2010-03-13 13:57:24
+850,31,Practical (repetitive),House work,Garden,30,2010-03-08,2010-03-13 13:58:44
+851,31,Practical (once),House technic work,House technic work,90,2010-03-12,2010-03-13 14:00:35
+852,56,Theoretical,Administration work,Board of Directors,180,2010-01-18,2010-03-13 14:01:18
+853,31,Practical (once),House technic work,House technic work,120,2010-03-11,2010-03-13 14:02:08
+854,31,Theoretical,House technic work,House technic work,150,2010-03-10,2010-03-13 14:03:23
+856,56,Theoretical,Administration work,Board of Directors,60,2010-01-23,2010-03-13 14:11:00
+857,56,Theoretical,Administration work,Board of Directors,120,2010-01-22,2010-03-13 14:12:21
+858,56,Theoretical,Administration work,Board of Directors,180,2010-01-20,2010-03-13 14:14:17
+859,56,Meeting,Administration work,Board of Directors,120,2010-03-03,2010-03-13 14:16:35
+860,56,Theoretical,Administration work,Board of Directors,210,2010-03-03,2010-03-13 14:17:19
+861,56,Theoretical,Administration work,Board of Directors,120,2010-03-02,2010-03-13 14:18:33
+862,56,Theoretical,Administration work,Board of Directors,120,2010-01-26,2010-03-13 14:20:04
+863,56,Theoretical,Administration work,Board of Directors,90,2010-01-30,2010-03-13 14:21:21
+864,56,Theoretical,Administration work,Board of Directors,120,2010-01-21,2010-03-13 14:25:53
+865,56,Theoretical,Administration work,Board of Directors,210,2010-03-04,2010-03-13 14:28:59
+866,56,Theoretical,Administration work,Board of Directors,120,2010-03-05,2010-03-13 14:31:02
+867,56,Theoretical,Administration work,Board of Directors,180,2010-03-12,2010-03-13 14:32:55
+868,56,Practical (repetitive),House work,Cooking,60,2010-03-11,2010-03-13 14:34:35
+869,56,Theoretical,Administration work,Board of Directors,120,2010-03-11,2010-03-13 14:35:16
+870,56,Theoretical,Administration work,Board of Directors,150,2010-03-10,2010-03-13 15:14:58
+871,56,Theoretical,Administration work,Board of Directors,240,2010-03-09,2010-03-13 15:15:59
+872,56,Theoretical,Administration work,Board of Directors,90,2010-03-08,2010-03-13 15:18:36
+873,56,Theoretical,Administration work,Board of Directors,120,2010-03-07,2010-03-13 15:20:19
+874,56,Theoretical,Administration work,Board of Directors,240,2010-03-06,2010-03-13 15:21:31
+875,56,Theoretical,Administration work,Board of Directors,300,2010-01-09,2010-03-13 15:22:58
+876,56,Theoretical,Administration work,Board of Directors,210,2010-01-10,2010-03-13 15:24:09
+877,56,Theoretical,Administration work,Board of Directors,180,2010-01-11,2010-03-13 15:25:17
+878,56,Theoretical,Administration work,Board of Directors,240,2010-01-12,2010-03-13 15:25:54
+879,56,Theoretical,Administration work,Board of Directors,210,2010-01-13,2010-03-13 15:26:58
+880,56,Theoretical,Administration work,Board of Directors,300,2010-01-14,2010-03-13 15:28:38
+881,27,Meeting,Community work,Community work,180,2010-03-06,2010-03-13 18:17:12
+882,27,Practical (repetitive),House work,Garden,60,2010-03-10,2010-03-13 18:18:22
+883,27,Theoretical,Community work,Community work,60,2010-03-10,2010-03-13 18:18:52
+884,25,Practical (once),House technic work,House technic work,480,2010-03-11,2010-03-13 19:52:34
+885,25,Theoretical,House technic work,House technic work,120,2010-03-10,2010-03-13 19:56:10
+886,25,Practical (once),House technic work,House technic work,90,2010-03-12,2010-03-13 20:17:55
+887,25,Theoretical,Administration work,Board of Directors,90,2010-03-12,2010-03-13 20:21:53
+888,3,Meeting,Community work,Community work,300,2010-03-05,2010-03-14 09:48:08
+889,43,Practical (repetitive),House work,Cleaning,60,2010-03-06,2010-03-14 11:30:07
+890,43,Practical (repetitive),Community work,Cake Day,120,2010-03-10,2010-03-14 11:31:04
+891,43,Practical (repetitive),Community work,Cake Day,60,2010-03-09,2010-03-14 11:31:31
+892,30,Practical (once),Communication work,Public relations,150,2010-03-12,2010-03-14 16:21:26
+893,30,Practical (once),Communication work,Public relations,150,2010-03-12,2010-03-14 16:21:27
+894,37,Practical (once),House work,Garden,90,2010-03-11,2010-03-14 17:06:33
+895,37,Practical (repetitive),House work,Cleaning,60,2010-03-12,2010-03-14 17:07:12
+896,37,Practical (repetitive),Other,,30,2010-03-13,2010-03-14 17:22:13
+897,37,Practical (repetitive),House work,House work,30,2010-03-17,2010-03-14 17:21:40
+898,12,Practical (repetitive),House work,House work,240,2010-03-11,2010-03-14 20:43:00
+899,12,Practical (once),Community work,Other,180,2010-03-10,2010-03-14 20:52:32
+900,15,Theoretical,Administration work,Supervisory Board,120,2010-03-14,2010-03-14 23:09:33
+901,47,Practical (once),House technic work,Interior planning,240,2010-03-11,2010-03-15 18:51:18
+902,47,Theoretical,House work,Garden,60,2010-03-12,2010-03-15 18:51:53
+903,49,Meeting,House technic work,House technic work,150,2010-03-03,2010-03-15 19:28:38
+905,49,Theoretical,House work,Cooking,120,2010-03-04,2010-03-15 19:34:08
+907,49,Theoretical,House work,Cooking,120,2010-01-21,2010-03-15 19:36:10
+908,49,Theoretical,House work,Cooking,120,2010-01-14,2010-03-15 19:36:52
+909,49,Meeting,Administration work,General meeting ,120,2010-01-17,2010-03-15 19:38:12
+910,49,Meeting,Community work,Cohabitation,120,2010-03-09,2010-03-15 19:39:35
+911,49,Meeting,Community work,Community gathering,120,2010-01-21,2010-03-15 19:40:37
+912,49,Practical (once),House work,Garden,240,2010-01-01,2010-03-15 19:51:17
+913,49,Theoretical,House technic work,Mobility,300,2010-03-01,2010-03-15 19:57:54
+914,18,Theoretical,Communication work,Hotel,60,2010-03-04,2010-03-17 08:54:51
+915,18,Meeting,Communication work,Hotel,180,2010-03-12,2010-03-17 08:55:32
+916,18,Theoretical,Communication work,Communication work,120,2010-03-07,2010-03-17 08:56:40
+917,18,Practical (once),Communication work,Public relations,180,2010-03-12,2010-03-17 08:57:36
+919,18,Meeting,Community work,Community work,180,2010-03-06,2010-03-17 08:59:36
+920,52,Practical (repetitive),Community work,Other,180,2010-03-11,2010-03-17 10:40:23
+921,37,Practical (repetitive),House work,Cleaning,30,2010-03-19,2010-03-20 05:29:47
+922,44,Practical (once),Communication work,Events,270,2010-03-15,2010-03-20 10:21:43
+923,57,Theoretical,Administration work,Board of Directors,60,2010-01-01,2010-03-20 11:48:24
+924,57,Meeting,Administration work,Board of Directors,240,2010-01-04,2010-03-20 11:52:40
+925,57,Meeting,Administration work,Board of Directors,180,2010-01-05,2010-03-20 11:52:49
+926,57,Meeting,Community work,Community building,120,2010-01-06,2010-03-20 11:52:59
+927,57,Meeting,Administration work,Board of Directors,120,2010-01-07,2010-03-20 11:53:12
+928,57,Theoretical,Administration work,Board of Directors,300,2010-01-09,2010-03-20 11:53:20
+929,57,Meeting,Administration work,Board of Directors,210,2010-01-10,2010-03-20 11:53:31
+930,57,Theoretical,Administration work,Board of Directors,210,2010-01-11,2010-03-20 11:54:54
+931,57,Theoretical,Administration work,Board of Directors,60,2010-01-16,2010-03-20 11:55:53
+932,57,Meeting,Administration work,Board of Directors,240,2010-01-19,2010-03-20 11:56:47
+933,57,Meeting,Community work,Community gathering,150,2010-01-21,2010-03-20 11:57:54
+934,57,Meeting,Administration work,Board of Directors,210,2010-01-24,2010-03-20 12:02:25
+935,57,Theoretical,Administration work,Board of Directors,120,2010-01-26,2010-03-20 12:02:35
+936,57,Meeting,Administration work,Board of Directors,180,2010-03-07,2010-03-20 12:02:10
+937,57,Theoretical,Administration work,Board of Directors,120,2010-03-08,2010-03-20 12:03:08
+938,45,Meeting,Administration work,Supervisory Board,90,2010-03-15,2010-03-20 18:14:51
+939,8,Practical (once),House work,Garden,600,2010-03-19,2010-03-22 18:57:49
+940,8,Practical (repetitive),House work,Garden,600,2010-03-20,2010-03-22 18:58:22
+941,44,Practical (once),Other,,90,2010-03-24,2010-03-26 19:41:47
+942,44,Practical (once),Other,,90,2010-03-26,2010-03-26 19:42:45
+943,37,Practical (once),Communication work,Events,90,2010-03-24,2010-03-28 19:16:46
+944,37,Theoretical,Other,,30,2010-03-24,2010-03-28 19:18:58
+945,37,Meeting,Communication work,Events,90,2010-03-28,2010-03-28 19:20:46
+946,8,Meeting,House work,Garden,90,2010-03-29,2010-04-03 00:24:21
+947,8,Meeting,House technic work,Outdoor planning,120,2010-04-01,2010-04-03 00:24:52
+948,8,Meeting,House work,Garden,120,2010-03-30,2010-04-03 00:25:55
+949,8,Practical (once),House work,Garden,120,2010-04-02,2010-04-03 00:26:43
+950,8,Theoretical,House work,Garden,300,2010-03-26,2010-04-03 00:27:50
+951,8,Practical (once),House technic work,House technic work,480,2010-04-04,2010-04-04 19:25:25
+952,8,Theoretical,House work,Garden,300,2010-04-09,2010-04-10 23:43:35
+953,8,Practical (once),House work,Garden,540,2010-04-17,2010-04-19 20:12:25
+954,8,Theoretical,House technic work,House technic work,90,2010-04-18,2010-04-19 20:13:20
+955,23,Meeting,House technic work,House technic work,120,2010-04-01,2010-01-02 15:38:52
+956,23,Practical (repetitive),House work,House work,150,2010-04-02,2010-01-02 15:34:01
+957,23,Theoretical,Communication work,Events,120,2010-04-02,2010-01-02 15:36:19
+958,23,Theoretical,House technic work,Outdoor planning,90,2010-04-05,2010-01-02 15:40:37
+959,23,Practical (repetitive),House technic work,Outdoor planning,60,2010-04-08,2010-01-02 15:41:34
+960,23,Practical (repetitive),House technic work,Outdoor planning,30,2010-04-09,2010-01-02 15:42:33
+961,23,Practical (repetitive),House technic work,House technic work,30,2010-04-30,2010-01-02 15:43:41
+962,23,Practical (repetitive),House technic work,House technic work,30,2010-04-30,2010-01-02 15:44:41
+963,23,Practical (repetitive),House technic work,House technic work,120,2010-01-02,2010-01-02 15:45:38
+964,16,Theoretical,Administration work,Other,60,2010-01-04,2010-01-09 12:29:35
+965,16,Theoretical,Communication work,Events,120,2010-01-02,2010-01-09 12:30:45
+966,16,Practical (once),House work,Garden,60,2010-01-09,2010-01-09 12:32:00
+967,16,Practical (once),Community work,Community action,180,2010-01-01,2010-01-09 12:39:03
+968,23,Practical (once),House technic work,House technic work,90,2010-01-06,2010-01-11 18:31:27
+969,23,Practical (repetitive),House work,Cooking,90,2010-01-06,2010-01-11 18:32:15
+970,23,Practical (once),Communication work,Events,120,2010-01-09,2010-01-11 18:33:40
+971,23,Practical (once),Communication work,Events,30,2010-01-10,2010-01-11 18:34:46
+972,23,Meeting,House technic work,House technic work,120,2010-01-06,2010-01-12 16:28:13
+973,12,Practical (repetitive),House technic work,House technic work,60,2010-01-03,2010-01-21 13:51:21
