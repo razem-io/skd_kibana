@@ -1,4 +1,4 @@
-# Softwerkskammer Duesseldorf - Beautiful functional Kibana Dashboards
+# Softwerkskammer Duesseldorf<br>Beautiful functional Kibana Dashboards
 
 ## Requirements
 
